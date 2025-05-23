@@ -1,4 +1,4 @@
-# devopsexpertspart1
+# Devops Experts Course - Project - Part 1
 
 This is the first part of the devops experts homework project
 
